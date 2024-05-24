@@ -1,0 +1,2 @@
+O uso de pilha ao invés da recursão é vantajoso no quesito de ter melhor eficiência de memória e melhor desempenho em situações de grande conjutos de dados para se ordenar. Usar recursividade implícita maior uso de memória quanto maior a quantidade de dados devido a várias chamadas de função, exigindo alocação de uma grande quantidade de espaço.
+Com o uso de pilha a quantidade de memória que será utilizada é mais explícita, tendo um maior controle do fluxo de dados do programa e um menor custo de memória.
